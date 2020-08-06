@@ -1,8 +1,4 @@
-<img align="right" src="https://jazer.co.uk/assets/sig_black.png" height="180">
-
-# Hi! I'm Jazer Barclay 
-
-### I'm a software engineer and University of Brighton first year student. Specializing in building code efficient applications, stunning websites and everything in between.
+<img src="https://jazer.co.uk/assets/github_profile_welcome_low.png" />
 
 ## My Code Stats
 ![Jazer's Github Stats](https://github-readme-stats.vercel.app/api?username=jazerbarclay&count_private=true&show_icons=true&hide_border=true&hide_title=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazerbarclay&layout=compact&hide_border=true)](https://github.com/jazerbarclay/github-readme-stats)
