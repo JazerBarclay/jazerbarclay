@@ -1,7 +1,7 @@
 
-# Hi! I'm Jazer Barclay 
+<img align="right" src="https://jazer.co.uk/assets/sig_low.png" height="200">
 
-<img align="right" src="https://jazer.co.uk/assets/sig_low.png" height="250">
+# Hi! I'm Jazer Barclay 
 
 ### I'm a software engineer and University of Brighton first year student. Specializing in building code efficient applications, stunning websites and everything in between.
 
