@@ -13,7 +13,9 @@
 [<img align="left" alt="Jazer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jazerbarclay)
 
 <br>
+
 ---
+
 <br>
 
 ## My Code Stats
