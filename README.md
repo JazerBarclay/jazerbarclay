@@ -1,4 +1,4 @@
-&nbsp;<img align="right" src="https://jazer.co.uk/assets/sig_black.png" height="180">
+<img align="right" src="https://jazer.co.uk/assets/sig_black.png" height="180">
 
 # Hi! I'm Jazer Barclay 
 
