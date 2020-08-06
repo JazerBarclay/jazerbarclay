@@ -1,6 +1,4 @@
-<div style="width:150px; height:150px">
-  <img align="right" margin="20px" src="https://jazer.co.uk/assets/sig_black.png" height="180">
-</div>
+<img align="right" src="https://jazer.co.uk/assets/sig_black.png" height="180">
 
 # Hi! I'm Jazer Barclay 
 
