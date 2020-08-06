@@ -12,9 +12,7 @@
 
 [<img align="left" alt="Jazer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/jazerbarclay)
 
-<br>
-
----
+<br><br>
 
 ## My Code Stats
 ![Jazer's Github Stats](https://github-readme-stats.vercel.app/api?username=jazerbarclay&count_private=true&show_icons=true&hide_border=true&hide_title=true)
