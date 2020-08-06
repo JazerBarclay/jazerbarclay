@@ -5,8 +5,6 @@
 ## My Code Stats
 ![Jazer's Github Stats](https://github-readme-stats.vercel.app/api?username=jazerbarclay&count_private=true&show_icons=true&hide_border=true&hide_title=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazerbarclay&layout=compact&hide_border=true)](https://github.com/jazerbarclay/github-readme-stats)
 
-<br>
-
 ## Where You Can Find Me:
 
 [<img align="left" alt="My Portfolio Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jazer.co.uk/)
