@@ -1,5 +1,5 @@
 
-<img align="right" src="https://jazer.co.uk/assets/sig_low.png" height="200">
+<img style="align: right; filter: invert(1);" src="https://jazer.co.uk/assets/sig_low.png" height="200">
 
 # Hi! I'm Jazer Barclay 
 
