@@ -1,5 +1,5 @@
 
-<img align="right" filter="invert()" src="https://jazer.co.uk/assets/sig_black.png" height="200">
+<img align="right" padding="10px" src="https://jazer.co.uk/assets/sig_black.png" height="200">
 
 # Hi! I'm Jazer Barclay 
 
