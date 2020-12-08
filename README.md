@@ -1,7 +1,7 @@
 <img src="https://jazer.co.uk/assets/github_profile_welcome_2.png" />
 
 [![GitHub User's stars](https://img.shields.io/github/stars/jazerbarclay?color=%230366d6&label=Github%20Stars&style=for-the-badge)](https://github.com/jazerbarclay)
-[![Twitter](https://img.shields.io/twitter/follow/jazerbarclay?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%jazerbarclay&screen_name=jazerbarclay)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jazerbarclay?color=%231DA1F2&label=Follow%20%40jazerbarclay&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jazerbarclay)
 [![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fjazer.co.uk)](https://jazer.co.uk)
 [![Security Headers](https://img.shields.io/security-headers?label=Site%20Security&style=for-the-badge&url=https%3A%2F%2Fjazer.co.uk%2F)](https://jazer.co.uk)
 
