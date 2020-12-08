@@ -1,8 +1,9 @@
 <img src="https://jazer.co.uk/assets/github_profile_welcome_2.png" />
 
 [![GitHub User's stars](https://img.shields.io/github/stars/jazerbarclay?color=%230366d6&label=Github%20Stars&style=for-the-badge)](https://github.com/jazerbarclay)
-[![Website](https://img.shields.io/website?label=jazer.co.uk&style=for-the-badge&url=https%3A%2F%2Fjazer.co.uk)](https://jazer.co.uk)
 [![Twitter](https://img.shields.io/twitter/follow/jazerbarclay?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%jazerbarclay&screen_name=jazerbarclay)
+[![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fjazer.co.uk)](https://jazer.co.uk)
+[![Security Headers](https://img.shields.io/security-headers?label=Site%20Security&style=for-the-badge&url=https%3A%2F%2Fjazer.co.uk%2F)](https://jazer.co.uk)
 
 ## My Code Stats
 ![Jazer's Github Stats](https://github-readme-stats.vercel.app/api?username=jazerbarclay&count_private=true&show_icons=true&hide_border=true&hide_title=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazerbarclay&layout=compact&hide_border=true&count_private=true)](https://github.com/jazerbarclay/github-readme-stats)
