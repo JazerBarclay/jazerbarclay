@@ -7,14 +7,6 @@
 ## My Code Stats
 ![Jazer's Github Stats](https://github-readme-stats.vercel.app/api?username=jazerbarclay&count_private=true&show_icons=true&hide_border=true&hide_title=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazerbarclay&layout=compact&hide_border=true&count_private=true)](https://github.com/jazerbarclay/github-readme-stats)
 
-## Where You Can Find Me:
-
-[<img align="left" alt="My Portfolio Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jazer.co.uk/)
-
-[<img align="left" alt="Jazer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jazerbarclay)
-
-[<img align="left" alt="Jazer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jazer-barclay)
-
 <br />
 <br />
 
@@ -48,3 +40,12 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<br />
+<br />
+
+## Where You Can Find Me:
+
+[<img align="left" alt="My Portfolio Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jazer.co.uk/)
+[<img align="left" alt="Jazer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jazerbarclay)
+[<img align="left" alt="Jazer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jazer-barclay)
