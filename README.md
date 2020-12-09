@@ -1,4 +1,4 @@
-<img src="https://jazer.co.uk/assets/github_profile_welcome_2.png" />
+<img src="https://jazer.co.uk/assets/github-profile-v2-1080p.png" />
 
 [![GitHub User's stars](https://img.shields.io/github/stars/jazerbarclay?color=%23FFD700&label=Github%20Stars&style=for-the-badge)](https://github.com/jazerbarclay)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jazerbarclay?color=%231DA1F2&label=Follow%20%40jazerbarclay&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jazerbarclay)
