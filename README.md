@@ -6,7 +6,7 @@
 
 
 ## My Code Stats
-![Jazer's Github Stats](https://github-readme-stats.vercel.app/api?username=jazerbarclay&count_private=true&show_icons=true&hide_border=true&hide_title=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazerbarclay&layout=compact&hide_border=true&count_private=true)](https://github.com/jazerbarclay/github-readme-stats)
+![Jazer's Github Stats](https://github-readme-stats.vercel.app/api?username=jazerbarclay&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=30,0d1117,12121255&text_color=f2f2f2&icon_color=1382cc)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazerbarclay&layout=compact&hide_border=true&count_private=true)](https://github.com/jazerbarclay/github-readme-stats)
 
 
 ## Languages and Tools:
