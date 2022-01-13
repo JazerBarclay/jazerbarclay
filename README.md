@@ -7,3 +7,4 @@
 
 ## My Code Stats
 ![Jazer's Github Stats](https://github-readme-stats.vercel.app/api?username=jazerbarclay&count_private=true&show_icons=true&hide_border=true&hide_title=true&bg_color=2a2a2a&text_color=f2f2f2&icon_color=1382cc)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazerbarclay&layout=compact&hide_border=true&count_private=true&bg_color=2a2a2a&text_color=f2f2f2&icon_color=1382cc)](https://github.com/jazerbarclay/github-readme-stats)
+[![Jazer's github activity graph](https://activity-graph.herokuapp.com/graph?username=jazerbarclay&hide_border=true&theme=xcode)](https://github.com/jazerbarclay)
